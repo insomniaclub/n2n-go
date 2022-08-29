@@ -1,4 +1,5 @@
 # n2n-go
+一个使用 go 实现的 n2n 工具
 
 ### Server
 ```go
